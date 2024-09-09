@@ -1,0 +1,42 @@
+/* src/css/counter.css */
+.counter-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .counter-content {
+    text-align: center;
+    margin: 0 20px;
+  }
+  
+  .counter-button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .counter-heading {
+    margin: 10px 0;
+  }
+  
+  .side-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  .left-image {
+    margin-right: 20px;
+  }
+  
+  .right-image {
+    margin-left: 20px;
+  }
+  
